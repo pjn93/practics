@@ -1,0 +1,22 @@
+.navright{
+    display:flex;
+      width:  220px;
+       justify-content: space-around;
+     
+}
+
+
+.lnk:hover{
+    color: #fff;
+    font-size: 28px;
+    
+      /* transform: scale(1);  */
+      transition: 1s ;
+    
+    }
+
+    .lnk{
+        transition: transform .2s;
+       margin: 0 auto;
+       color: grey;
+    }
